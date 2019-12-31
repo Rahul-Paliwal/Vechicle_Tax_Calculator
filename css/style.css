@@ -1,0 +1,16 @@
+body{
+	background:#333;
+}
+
+
+#loading, #results{
+		display:none;
+}
+h5{
+   text-align:center;
+}
+.hide_lists
+{
+	display: none;
+}
+
