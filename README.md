@@ -4,5 +4,4 @@ Find out the tax rate for all vehicle types. Car vehicle tax rates are based on 
 
 For Demo:
        http://mmlabsdemo.epizy.com/calc2/
-
        http://mmlabsdemo.epizy.com/calc3/
