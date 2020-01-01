@@ -722,7 +722,7 @@ else
     let y = parseFloat(weight.value);
    let Duty;
    
-    
+    // check...
    
     if (x>=1 && x<=1500)
     {
